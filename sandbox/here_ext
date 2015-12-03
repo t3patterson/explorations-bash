@@ -1,0 +1,11 @@
+#-----------------------------
+# This is a here-doc (<<EOF)
+#-----------------------------
+grep $1 <<EOF
+travis x.123
+ben x.321
+ed x.444
+connie x.535
+jason x.314
+janet x.101
+EOF
