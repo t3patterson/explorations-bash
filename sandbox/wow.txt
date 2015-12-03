@@ -1,0 +1,17 @@
+Automatic Clearing House or Electronic Fund Transfer. A mechanism from transferring money directly between bank accounts
+ACH standards for automatic clearing house. In modern usage it is more common to encounter the terminology EFT (electronic fund transfers).
+
+
+####Taco Meat is Okay###
+
+These terms are not quite synonymous:
+
+All refer to a mechanism by which banks are able to transfer money directly from one account to another (held by a different party) at the request of the owner of the first account. A transaction charge may be levied by the bank for providing this service. Transfers between banks within different countries are more complicated, and usually attract larger fees as well as being more restricted.
+
+Many online banking services allow users to conduct small transfers of this type automatically, often hidden within an option such as "make a payment". Internet-based services for conducting international transfers can be found easily by searching for suitable terms using google or similar.
+
+The difference is essentially that ACH  and BWT (bank wire transfer) are both subsets of EFT. Typically, BWT take place the same day that they are initiated, whilst ACH-based transfers can take a longer period (typically up to three days).
+
+Some information about this is available from:
+http://www.interactivebrokers.com/en/accounts/depositInstructions.php?ib_entity=llc
+but it's rather incomplete.
