@@ -16,4 +16,6 @@
 - `head` / `tail`
 
 1. [Bash Basics](/01-bash-basics.md)
-2. [Output](/02-input-output.md)
+2. [Standard Output](/02-standard-output.md)
+3. [Standard Input](/03-standard-input.md)
+
